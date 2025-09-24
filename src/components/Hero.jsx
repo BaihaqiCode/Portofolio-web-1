@@ -21,8 +21,8 @@ const Hero = () => {
         </p>
 
         <motion.a
-          href="/cv_palsu.txt" // Sesuaikan path CV Anda
-          download="cv_palsu.txt"
+          href="/cv-baihaqi.pdf" // Sesuaikan path CV Anda
+          download="CV ATS - BAIHAQI ABDUL HAKIM (INDONESIA).pdf"
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
           className="mt-8 inline-flex items-center gap-2 bg-cyan-500 hover:bg-cyan-600 text-white font-bold py-3 px-6 rounded-lg mx-auto md:mx-0"
