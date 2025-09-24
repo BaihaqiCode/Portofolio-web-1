@@ -5,7 +5,7 @@ import { AnimatePresence, motion } from "framer-motion";
 import ParticlesComponent from "./components/ParticlesComponent";
 
 // Impor semua komponen Anda
-import Loader from "./components/loader.jsx";
+import Loader from "./components/Loader.jsx";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Skills from "./components/Skills";
