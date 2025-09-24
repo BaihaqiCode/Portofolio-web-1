@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap");
+@theme {
+  --font-tilt: 'Tilt Prism', cursive;
+}
+@import "tailwindcss";
+html {
+  scroll-behavior: smooth;
+}
